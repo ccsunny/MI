@@ -1,2 +1,2 @@
 # MI
-nico change
++ 模仿小米官网的主页面
